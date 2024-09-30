@@ -1,1 +1,4 @@
 # testRepoCreation
+ só
+ bors
+ paprika
