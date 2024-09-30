@@ -1,1 +1,4 @@
 # testRepoCreation
+ alma
+ malna 
+ banan
